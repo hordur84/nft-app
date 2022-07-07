@@ -1,0 +1,30 @@
+@import url(//fonts.googleapis.com/css?family=Press+Start+2P);
+
+.container {
+    width: 90%;
+    border: 8px solid rgb(119, 113, 113);
+    box-shadow: 20px 20px 0px 0px rgb(0 0 0 / 0.2);
+    padding: 0.5rem 0.5rem;
+}
+
+.title {
+    font-family: 'Press Start 2P';
+    font-size: 1.5rem;
+    color: white
+}
+
+.description {
+    font-family: 'Press Start 2P';
+    font-size: 1rem;
+    color:white;
+}
+
+.item {
+    font-family: 'Press Start 2P';
+    font-size: 0.9rem;
+    color: white;
+}
+
+.margin {
+    margin: 1rem 2px;
+}

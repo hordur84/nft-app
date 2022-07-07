@@ -1,0 +1,7 @@
+.wallet-images-wrapper {
+    background: linear-gradient(90deg, rgb(99, 69, 138) 0%, rgb(26, 23, 23) 100%);
+    display: flex;
+    overflow-x: scroll;
+    flex-direction: row;
+    margin-left: 0.25rem;
+  }

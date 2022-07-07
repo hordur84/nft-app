@@ -1,0 +1,10 @@
+.styles__price-tag___UwO7P {
+    position: absolute;
+    background-color: rgba(44,62,80,.95);
+    color: #ecf0f1;
+    border-radius: .25rem;
+    padding: .125rem .5rem;
+    top: 1rem;
+    left: 1rem;
+    visibility: hidden;
+}

@@ -1,0 +1,26 @@
+.about-wrapper {
+    display: flex;
+    overflow: hidden;
+    gap: 10px;
+    row-gap: 10px;
+    align-items: center;
+    margin: 4vh;
+}
+
+.about-image {
+  transition: all 0.7s ease 0s;
+  width: 100%;
+}
+.about-image:hover {
+  transform: scale(1.05);
+}
+
+.about-text > p {
+    background: #CDCDCD;
+    border-radius: 0.25em;
+    transition: all 0.7s ease 0s;
+    width: 100%;
+}
+.about-text:hover > p {
+    transform: scale(1.05);
+}

@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "url": "",
+            "title": "Outcome 1",
+            "description": "Literally nothing happens except you lose a life. You have 3 more tries",
+            "left": false
+        },
+        {
+            "url": "",
+            "title": "Outcome 2",
+            "description": "You win and your Koala gets a manly upgrade",
+            "left": true
+        },
+        {
+            "url": "",
+            "title": "Outcome 3",
+            "description": "You die. Fuck you",
+            "left": false
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+Streaming transaction logs mentioning 8QUWf8UVcyfQMj8iFaXHSpkWKjcnZuSpTMkphV72Zv3Y. Confirmed commitment
+Transaction executed in slot 113279333:
+  Signature: 4M3dWAW9WrDdpqJANVHTjwLCGKWwcTJpd7mZLivJ9mFgpUBtsxkVmjQvRqJyZ4oaLW3gxmoYQP2GmQNjHy2A2oPx
+  Status: Ok
+  Log Messages:
+    Program 8QUWf8UVcyfQMj8iFaXHSpkWKjcnZuSpTMkphV72Zv3Y invoke [1]
+    Program log: Instruction: InitializeStakeAccount
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 8QUWf8UVcyfQMj8iFaXHSpkWKjcnZuSpTMkphV72Zv3Y consumed 14102 of 200000 compute units
+    Program 8QUWf8UVcyfQMj8iFaXHSpkWKjcnZuSpTMkphV72Zv3Y success
+Transaction executed in slot 113279337:
+  Signature: 5QYbfvJPprL3eypmw9bcpiSiFmSUPXg8o8cRjHZhCh99NZY3JnPat9t9zU2o5nVAEwxcUUgrKHTUwX8EFAnJPYkC
+  Status: Ok
+  Log Messages:
+    Program 8QUWf8UVcyfQMj8iFaXHSpkWKjcnZuSpTMkphV72Zv3Y invoke [1]
+    Program log: Instruction: StakeNft
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: SetAuthority
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1770 of 181192 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 8QUWf8UVcyfQMj8iFaXHSpkWKjcnZuSpTMkphV72Zv3Y consumed 22459 of 200000 compute units
+    Program 8QUWf8UVcyfQMj8iFaXHSpkWKjcnZuSpTMkphV72Zv3Y success
+Transaction executed in slot 113279345:
+  Signature: 36dTV9LDiQPg5i5nmwLMFPPupXxj4BWeQoC6tKg16TKCKikvZxYFspwZVWbxqCPQoqoobyiv3yA35pQzeDQknuU9
+  Status: Ok
+  Log Messages:
+    Program 8QUWf8UVcyfQMj8iFaXHSpkWKjcnZuSpTMkphV72Zv3Y invoke [1]
+    Program log: Instruction: UnstakeNft
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: SetAuthority
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1770 of 181395 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 8QUWf8UVcyfQMj8iFaXHSpkWKjcnZuSpTMkphV72Zv3Y consumed 22002 of 200000 compute units
+    Program 8QUWf8UVcyfQMj8iFaXHSpkWKjcnZuSpTMkphV72Zv3Y success
+Transaction executed in slot 113279347:
+  Signature: 36dTV9LDiQPg5i5nmwLMFPPupXxj4BWeQoC6tKg16TKCKikvZxYFspwZVWbxqCPQoqoobyiv3yA35pQzeDQknuU9
+  Status: Ok
+  Log Messages:
+    Program 8QUWf8UVcyfQMj8iFaXHSpkWKjcnZuSpTMkphV72Zv3Y invoke [1]
+    Program log: Instruction: UnstakeNft
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: SetAuthority
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1770 of 181395 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 8QUWf8UVcyfQMj8iFaXHSpkWKjcnZuSpTMkphV72Zv3Y consumed 22002 of 200000 compute units
+    Program 8QUWf8UVcyfQMj8iFaXHSpkWKjcnZuSpTMkphV72Zv3Y success

@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "title": "Mint Information",
+            "description": "There are 6666 Koalas up for grabs for the simple price of 1 SOL each",
+            "bullet": []
+        },
+        {
+            "title": "What do I gain by Signing Up?",
+            "description": "When you sign up your koala, you're sending it to war. If your Koala survives the mission, it might get an upgrade to the next tier! However, the mission can result in a Kamakazi, resulting in your Koala dying. You have 4 chances on each tier to reach the next one! Good luck!",
+            "bullet": []
+        },
+        {
+            "title": "What happens on a mission?",
+            "description": "Your Koala fights on the Solana blockchain for NFT supremacy, we are here to kick ass and take names. But this is a tough fight and not everybody can survive. Three things can happen",
+            "bullet": [
+                "Your Koala survives but won’t upgrade",
+                "You Koala survives and did such a good job he gets a promotion!",
+                "Your Koala kamikazes."
+            ]
+        },
+        {
+            "title": "How long does a mission take?",
+            "description": "Each time you sign your Koala up for a mission, a counter is triggered. When that counter has reached 3 days, your koala will either survive / upgrade or kamikaze. You have to manually unstake your Koala if you are happy with the level you are at! Otherwise it will be sent to war again if it’s still eligible!",
+            "bullet": []
+        },
+        {
+            "title": "What are the tiers?",
+            "description": "The tiers available are Normal, Survivor, Soldier, Hero - The higher your tier, the higher the bonus you are eligible to receive from DAO ventures! A dead koala keeps the tier it died in!",
+            "bullet": []
+        },
+        {
+            "title": "My Koala died, what should I do?",
+            "description": "Keep it! The koala is a fallen hero and should not be discarded so easily - You can still stake it when the DAO starts!",
+            "bullet": []
+        },
+        {
+            "title": "What are my chances of my Koala getting a promotion?",
+            "description": "Please see HERE (Some image)",
+            "bullet": []
+        },
+        {
+            "title": "What happens when my Koala gets a promotion?",
+            "description": "If your Koala comes back from the mission as a hero, new attributes are available to your Koala! Your Koala will keep it’s base attributes, but might receive a snazzy new jacket, hat, better background etc - The higher you go, the rarer the attributes are!",
+            "bullet": []
+        },
+        {
+            "title": "What is my Koala rank?",
+            "description": "Ranking your Koala is of course a dynamic feature. Each time a Koala gets an upgrade, the ranking needs to be upgraded! Once the war is over, the Koalas are solidified and won’t be eligible for upgrades again, then ranking will be stable. Until then, please use <link> to check the rank of your Koala.",
+            "bullet": []
+        }
+    ]
+}

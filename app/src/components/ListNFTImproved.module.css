@@ -1,0 +1,87 @@
+.main {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-color: #2e2e2e;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: block;
+    width: 100%;
+    height: 90%;
+    justify-content: center;
+    background-color: #2e2e2e;
+}
+
+.content {
+    display: flex;
+    width: 100%;
+    padding-top: 1.5rem;
+}
+
+.nftlist {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 70%;
+}
+
+.nftselection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+}
+
+.confirmation-container {
+    position: absolute;
+    top: 4rem;
+    left: 50%;
+    margin-left: -10rem;
+    width: 20rem;
+    height: 2rem;
+    z-index: 10;
+    border: 4px solid #da864e;
+    background-color: rgba(66, 66, 66, 0.65);
+}
+
+.confirmation-message {
+    color: #da864e;
+    font-size: 20px;
+    text-align: center;
+}
+
+.loader-container {
+    margin: 1rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 45%;
+    border: 8px solid #da864e;
+    border-radius: 4px;
+    padding: 1rem 5rem;
+}
+
+.loader-text {
+    font-size: 50px;
+    color: #da864e;
+}
+
+.loader-img {
+    width: 6rem;
+    filter: invert(50%) sepia(40%) saturate(3000%) hue-rotate(2deg) brightness(92%) contrast(80%);
+    animation: rotation 2s infinite linear;
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(359deg);
+    }
+}

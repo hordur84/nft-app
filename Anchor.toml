@@ -1,0 +1,12 @@
+[programs.localnet]
+koala_program = "8QUWf8UVcyfQMj8iFaXHSpkWKjcnZuSpTMkphV72Zv3Y"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/home/hordur84/.config/solana/devnet.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
